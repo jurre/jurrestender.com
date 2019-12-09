@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jurrestender.com/about/</loc>
+    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jurrestender.com/</loc>
+    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jurrestender.com/posts/custom-interceptors-with-ruby-grpc/</loc>
+    <lastmod>2019-12-06T14:20:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jurrestender.com/posts/</loc>
+    <lastmod>2019-12-06T14:20:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jurrestender.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jurrestender.com/tags/</loc>
+  </url>
+  
+</urlset>
