@@ -1,0 +1,17 @@
+baseURL = "https://jurrestender.com/"
+languageCode = "en-us"
+title = "Jurre's Site"
+theme = "kiss"
+enableRobotsTXT = true
+
+[params.social]
+
+twitter = "JurreTweet"
+github = "jurre"
+linkedin = "jurre-stender-a010b811"
+
+[params.social.config]
+platforms = ["twitter","github","linkedin"]
+
+[params.sections_left]
+"/about" = "About"
